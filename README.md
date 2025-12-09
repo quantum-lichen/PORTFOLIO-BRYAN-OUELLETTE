@@ -1,17 +1,31 @@
 # **🧠 PORTFOLIO BRYAN OUELLET**
 *Architecte Système Cognitif | Pionnier en IA Résiliente & Neuro-Symbolique*
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org)
-[![Rust](https://img.shields.io/badge/Rust-1.70-orange)](https://rust-lang.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/[ton-username]/PORTFOLIO-BRYAN-OUELLET?style=social)](https://github.com/[ton-username]/PORTFOLIO-BRYAN-OUELLET)
-
 ## **🛠️ Technologies Utilisées**
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?logo=python)](https://python.org)
 [![Rust](https://img.shields.io/badge/Rust-1.70-000000?logo=rust)](https://rust-lang.org)
 [![NumPy](https://img.shields.io/badge/NumPy-1.24.0-013243?logo=numpy)](https://numpy.org)
 [![FAISS](https://img.shields.io/badge/FAISS-Facebook-blue?logo=facebook)](https://github.com/facebookresearch/faiss)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=github-actions)](https://github.com/features/actions)
+[![Rust](https://img.shields.io/badge/Rust-1.70-orange)](https://rust-lang.org)
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/[ton-username]/PORTFOLIO-BRYAN-OUELLET?style=social)](https://github.com/[ton-username]/PORTFOLIO-BRYAN-OUELLET)
+
+
+# 🧠 PORTFOLIO BRYAN OUELLET : Systèmes Cognitifs Résilients
+**Architectures révolutionnaires pour une IA qui comprend, survit, et s’adapte.**
+
+## 🌟 Projets Phares
+| Projet       | Description                                  | Technologies          |
+|--------------|----------------------------------------------|----------------------|
+| **CRAID**    | Stockage distribué auto-réparant (Erasure Coding + Sémantique) | Python, Reed-Solomon |
+| **TRPU**     | Théorie de la Résonance Philonomique (équation différentielle pour la conscience AI) | Python, NumPy        |
+| **NGC**      | Noyau Génomique de Connaissance (mémoire sémantique immuable) | Python, FAISS        |
+
+## 🔧 Technologies
+`Python` `Rust` `Distributed Systems` `Neuro-Symbolic AI` `Erasure Coding` `Self-Healing Systems`
+
 
 ---
 
