@@ -19,7 +19,7 @@ const Hero: React.FC = () => {
           <a href="mailto:bryan.ouellet@domaine.com" className="bg-primary hover:bg-blue-600 text-white px-8 py-3 rounded-lg font-bold transition-all shadow-lg shadow-primary/25">
             Me Contacter
           </a>
-          <a href="https://github.com/portfolio" target="_blank" rel="noopener noreferrer" className="bg-slate-800 hover:bg-slate-700 text-white px-8 py-3 rounded-lg font-bold transition-all border border-slate-700">
+          <a href="https://github.com/quantum-lichen" target="_blank" rel="noopener noreferrer" className="bg-slate-800 hover:bg-slate-700 text-white px-8 py-3 rounded-lg font-bold transition-all border border-slate-700">
             Voir GitHub
           </a>
         </div>
