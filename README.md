@@ -62,6 +62,7 @@
 
 ## **📫 CONTACT**
 📧 **Email** : lmc.theory@gmail.com
+Théorie : https://github.com/Phi-losophe
 
 
 *"L’IA ne doit pas juste calculer. Elle doit **comprendre, survivre, et s’adapter** comme un organisme vivant. Ces projets sont les premières briques de cette vision."*
